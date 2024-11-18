@@ -27,7 +27,7 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 ---
 ## 📫 Let’s Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-hardy-0b6561255/)
-- 💌 [Email](theo.hardy92@gmail.com)
+- 💌 [Email](mailto:theo.hardy92@gmail.com)
 
 ---
 
