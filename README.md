@@ -5,45 +5,31 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 
 ---
 ##  Who Am I?
-- 🧑‍💻 French Computer Engineering Student at ESILV La Défese & Hanyang University (currently exploring the tech world in vibrant Seoul!)
-- 🔍 Passionate about C++, Python, and AI experiments
+- 🧑‍💻 French **Engineering** Student at ESILV La Défese & Hanyang University (currently exploring the tech world in vibrant Seoul!)
+- 🔍 Passionate about **C++, Python, and AI experiments**
 - 🐾 Likes: Cats, PCBs, and discovering how AI impacts daily life
 - ☕ Can be found: Debugging code, sipping on iced Americano, or leveling up my coding skills
 
 ---
 ## 🌟 Skills in My Toolbox:
-- 💻 Languages: Python 🐍 | C/C++ 🔧 | C# 🖥️ 
-- 🔨 Tools & Platforms: Vim | Visual Studio | CMake | JetBrains tools
-- 📊 Data Work: AIML | TensorFlow | Machine Learning Models
+- 💻 **Languages:** Python 🐍 | C/C++ 🔧 | C# 🖥️ 
+- 🔨 **Tools & Platforms:** Vim | Visual Studio | CMake | JetBrains tools
+- 📊 **Data Work:** AIML | TensorFlow | Machine Learning Models
 
 ---
 ## 🚀 What’s Next?
-- 🌐 Learning JavaScript to conquer the web
-- 📈 Apprehend financial algorithms by creating a trading bot
-- ⚡ Designing PCBs like a pro with Altium Designer
-- 🤖 Enhance my knowledge on AI exploring the world of Neural Network
+- 🌐 Learning **JavaScript** to conquer the web
+- 📈 Apprehend **financial algorithms** by creating a trading bot
+- ⚡ Designing **PCBs** like a pro with *Altium Designer*
+- 🤖 Enhance my knowledge on **AI** exploring the world of **Neural Network**
 - 🤝 Collaborating on open-source projects and meeting like-minded coders
 
-
+---
 ## 📫 Let’s Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-hardy-0b6561255/)
 - 💌 [Email](theo.hardy92@gmail.com)
 
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHardy04&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**TheHardy04/TheHardy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
