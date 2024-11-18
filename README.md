@@ -13,7 +13,7 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 ---
 ## 🌟 Skills in My Toolbox:
 - 💻 **Languages:** Python 🐍 | C/C++ 🔧 | C# 🖥️ 
-- 🔨 **Tools & Platforms:** Vim | Visual Studio | CMake | JetBrains tools
+- 🔨 **Tools & Platforms:**  Visual Studio | JetBrains tools | Arduino | CMake
 - 📊 **Data Work:** AIML | TensorFlow | Machine Learning Models
 
 ---
@@ -31,5 +31,6 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHardy04&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHardy04&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHardy04&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
