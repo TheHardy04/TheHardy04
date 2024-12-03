@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+world+!+Welcome+!)](https://git.io/typing-svg)
-https://github.com/TheHardy04/TheHardy04/blob/main/README.md
+
 ## 🎯 Mission Statement:
 Crafting code with creativity and curiosity. Every day is a new opportunity to solve problems, build cool things, and share knowledge!
 
