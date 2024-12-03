@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+world+!+Welcome+!)](https://git.io/typing-svg)
-
+https://github.com/TheHardy04/TheHardy04/blob/main/README.md
 ## 🎯 Mission Statement:
 Crafting code with creativity and curiosity. Every day is a new opportunity to solve problems, build cool things, and share knowledge!
 
 ---
 ##  Who Am I?
 - 🧑‍💻 French **Engineering** Student at ESILV La Défese & Hanyang University (currently exploring the tech world in vibrant Seoul!)
-- 🔍 Passionate about **C++, Python, and AI experiments**
+- 🔍 Passionate about **Tech News, Electronic Engineering, Video Games and AI experiments**
 - 🐾 Likes: Cats, PCBs, and discovering how AI impacts daily life
 - ☕ Can be found: Debugging code, sipping on iced Americano, or leveling up my coding skills
 
@@ -14,7 +14,6 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 ## 🌟 Skills in My Toolbox:
 - 💻 **Languages:** Python 🐍 | C/C++ 🔧 | C# 🖥️ 
 - 🔨 **Tools & Platforms:**  Visual Studio | JetBrains tools | Arduino | CMake
-- 📊 **Data Work:** AIML | TensorFlow | Machine Learning Models
 
 ---
 ## 🚀 What’s Next?
