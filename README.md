@@ -12,7 +12,7 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 
 ---
 ## 🌟 Skills in My Toolbox:
-- 💻 **Languages:** Python 🐍 | C/C++ 🔧 | C# 🖥️ | java  🍵
+- 💻 **Languages:** Python 🐍 | C/C++ 🔧 | C# 🖥️ | Java  🍵
 - 🔨 **Tools & Platforms:**  Visual Studio | VSCode |JetBrains tools | Arduino | ESP32 | CMake | Maven
 
 ---
