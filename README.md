@@ -13,9 +13,13 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 
 ## 🧭 What I’m doing now
 - 🧪 Applied research at ESILV: **AI & Energy‑Aware Edge Computing**  
-  – define experimental metrics (latency, resources, energy), design an algorithm for edge deployment of IoT services, and run end‑to‑end experiments
+  - Define experimental metrics (latency, resources, energy)
+  - Design an algorithm for edge deployment of IoT services
+  - Run end‑to‑end experiments
 - 🏎️ Tech lead for a 10‑member student team (Vinci Eco Drive) building embedded platforms for **Formula Student** and **Shell Eco‑marathon**  
-  – architecture (sensors, power, electrical safety), schematics → routing → prototyping → functional tests, cross‑team coordination
+  - architecture (sensors, power, electrical safety)
+  - schematics → routing → prototyping → functional tests
+  - cross‑team coordination
 
 ---
 ## 🌟 Skills in My Toolbox:
