@@ -12,10 +12,13 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 - ☕ Can be found: Debugging code, sipping on iced Americano, or leveling up my coding skills
 
 ## 🧭 What I’m doing now
+- 📚 Studying IoT and Cybersecurity at esilv
+  - Courses: Secure app development, AI & intelligent objects, forensics, networks & telecoms, embedded systems & systems architecture, IoT protocols, cloud & web services  
+  - Security focus: designing secure architectures, data governance/regulation/GDPR, penetration testing & audits, cyber resilience & risk management, cybersecurity governance
 - 🧪 Applied research at ESILV: **AI & Energy‑Aware Edge Computing**  
   - Define experimental metrics (latency, resources, energy)
   - Design an algorithm for edge deployment of IoT services
-  - Run end‑to‑end experiments
+  - Run end‑to‑end experiments ; Research Methodology
 - 🏎️ Tech lead for a 10‑member student team (Vinci Eco Drive) building embedded platforms for **Formula Student** and **Shell Eco‑marathon**  
   - architecture (sensors, power, electrical safety)
   - schematics → routing → prototyping → functional tests
