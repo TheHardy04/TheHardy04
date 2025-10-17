@@ -1,25 +1,32 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+world+!+Welcome+!)](https://git.io/typing-svg)
 
 ## 🎯 Mission Statement:
-Crafting code with creativity and curiosity. Every day is a new opportunity to solve problems, build cool things, and share knowledge!
+Crafting code with creativity and curiosity. Every day is a new opportunity to solve problems, build cool things, and share discoveries!
 
 ---
 ##  Who Am I?
-- 🧑‍💻 French **Engineering** Student at ESILV La Défese & Hanyang University (currently exploring the tech world in vibrant Seoul!)
+- 🧑‍💻 French **Engineering** Student at ESILV La Défese • Exchange at Hanyang Universit in vibrant Seoul!
 - 🔍 Passionate about **Tech News, Electronic Engineering, Video Games and AI experiments**
+- 🔐 Master’s in IoT & Cybersecurity
 - 🐾 Likes: Cats, PCBs, and discovering how AI impacts daily life
 - ☕ Can be found: Debugging code, sipping on iced Americano, or leveling up my coding skills
+
+## 🧭 What I’m doing now
+- 🧪 Applied research at ESILV: **AI & Energy‑Aware Edge Computing**  
+  – define experimental metrics (latency, resources, energy), design an algorithm for edge deployment of IoT services, and run end‑to‑end experiments
+- 🏎️ Tech lead for a 10‑member student team (Vinci Eco Drive) building embedded platforms for **Formula Student** and **Shell Eco‑marathon**  
+  – architecture (sensors, power, electrical safety), schematics → routing → prototyping → functional tests, cross‑team coordination
 
 ---
 ## 🌟 Skills in My Toolbox:
 - 💻 **Languages:** Python 🐍 | C/C++ 🔧 | C# 🖥️ | Java 🍵
-- 🔨 **Tools & Platforms:**  Visual Studio | VSCode | JetBrains tools | Arduino | ESP32 | CMake | Maven
+- 🔧 Embedded: **ESP32 (Arduino)**, **STM32 (HAL)**, interrupts, timers, CAN, UART/SPI/I²C
+- 🔨 **Tools & Platforms:**  Visual Studio | VSCode | JetBrains tools | CMake | Maven | Arduino IDE
 
 ---
 ## 🚀 What’s Next?
 - 🌐 Learning **JavaScript** to conquer the web
 - 📈 Apprehend **financial algorithms** by creating a trading bot
-- ⚡ Designing **PCBs** like a pro with *Altium Designer*
 - 🤖 Enhance my knowledge on **AI** exploring the world of **Neural Network**
 - 🤝 Collaborating on open-source projects and meeting like-minded coders
 
