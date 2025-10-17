@@ -13,8 +13,8 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 
 ## 🧭 What I’m doing now
 - 📚 Studying **IoT and Cybersecurity** at **ESILV**
-  - Courses: Secure app development, AI & intelligent objects, forensics, networks & telecoms, embedded systems & systems architecture, IoT protocols, cloud & web services  
-  - Security focus: designing secure architectures, data governance/regulation/GDPR, penetration testing & audits, cyber resilience & risk management, cybersecurity governance
+  - Courses: Secure app development, forensics, networks & telecoms, embedded systems, IoT protocols  
+  - Security focus: designing secure architectures, data governance/regulation/GDPR, cybersecurity governance
 - 🧪 Applied research at ESILV: **AI & Energy‑Aware Edge Computing**  
   - Define experimental metrics (latency, resources, energy)
   - Design an algorithm for edge deployment of IoT services
