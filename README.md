@@ -20,15 +20,50 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
   - Design an algorithm for edge deployment of IoT services
   - Run end‑to‑end experiments ; Research Methodology
 - 🏎️ Tech lead for a 10‑member student team (Vinci Eco Drive) building embedded platforms for **Formula Student** and **Shell Eco‑marathon**  
-  - architecture (sensors, power, electrical safety)
-  - schematics → routing → prototyping → functional tests
-  - cross‑team coordination
+  - Architecture (sensors, power, electrical safety)
+  - Schematics → routing → prototyping → functional tests
+  - Cross‑team coordination
 
 ---
 ## 🌟 Skills in My Toolbox:
-- 💻 **Languages:** Python 🐍 | C/C++ 🔧 | C# 🖥️ | Java 🍵
-- 🔧 Embedded: **ESP32 (Arduino)**, **STM32 (HAL)**, interrupts, timers, CAN, UART/SPI/I²C
-- 🔨 **Tools & Platforms:**  Visual Studio | VSCode | JetBrains tools | CMake | Maven | Arduino IDE
+- 💻 **Languages**
+  
+  <a href="https://en.cppreference.com/w/c" title="C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" height="42" alt="C" /></a>
+  <a href="https://en.cppreference.com/w/cpp" title="C++"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" /></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" /></a>
+  <a href="https://dev.java/" title="Java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" /></a>
+  
+- 🔧 **Dev Tools**
+  
+  <a href="https://visualstudio.microsoft.com/" title="Visual Studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="42" alt="Visual Studio" /></a>
+  <a href="https://code.visualstudio.com/" title="VS Code"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code" /></a>
+  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" alt="IntelliJ IDEA" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="42" alt="PyCharm" /></a>
+  <a href="https://https://www.vim.org/" title="Vim"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="42" alt="Vim" /></a>
+  <a href="https://unity.com/" title="Unity"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="42" alt="Unity" /></a>
+
+  <a href="https://git-scm.com/" title="Git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" /></a>
+  <a href="https://cmake.org/" title="CMake"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="42" alt="CMake" /></a>
+  <a href="https://maven.apache.org/" title="Maven"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="42" alt="Maven" /></a>
+
+- ⚡ **Embedded & Hardware**
+
+<a href="https://www.arduino.cc/" title="Arduino">
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="22" alt="Arduino" />
+</a> 
+<a href="https://www.espressif.com/en/products/socs/esp32" title="ESP32 / Espressif">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white&style=for-the-badge" height="22" alt="ESP32" />
+</a>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" title="STM32">
+  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge" height="22" alt="STM32" />
+</a> 
+  <a href="https://www.altium.com/altium-designer/" title="Altium Designer">
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=white&style=for-the-badge" height="22" alt="Altium Designer" />
+</a> 
+  <a href="https://www.kicad.org/" title="KiCad">
+  <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white&style=for-the-badge" height="22" alt="KiCad" />
+</a> 
 
 ---
 ## 🚀 What’s Next?
@@ -38,9 +73,20 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 - 🤝 Collaborating on open-source projects and meeting like-minded coders
 
 ---
-## 📫 Let’s Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/th%C3%A9o-hardy-0b6561255/)
-- 💌 [Email](mailto:theo.hardy92@gmail.com)
+## 📫 Let’s Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/th%C3%A9o-hardy-0b6561255/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:theo.hardy92@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="36" alt="Email" />
+  </a>
+</p>
+
+
+
 
 ---
 
