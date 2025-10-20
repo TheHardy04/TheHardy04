@@ -92,6 +92,6 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHardy04&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHardy04&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHardy04&layout=pie&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
