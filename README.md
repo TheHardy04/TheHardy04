@@ -71,7 +71,7 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 ## 🚀 What’s Next?
 - 🌐 Learning **JavaScript** to conquer the web
 - 📈 Apprehend **financial algorithms** by creating a trading bot
-- 🤖 Enhance my knowledge on **AI** exploring the world of **Neural Network**
+- 🤖 Enhance my knowledge on **AI** exploring the world of **LLM**
 - 🤝 Collaborating on open-source projects and meeting like-minded coders
 
 ---
