@@ -7,7 +7,7 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
 
 ---
 ##  Who Am I?
-- 🧑‍💻 French **Engineering** Student at ESILV La Défese • Exchange at Hanyang Universit in vibrant Seoul!
+- 🧑‍💻 French **Engineering** Student at ESILV La Défense • Exchange at Hanyang Universit in vibrant Seoul!
 - 🔍 Passionate about **Tech News, Electronic Engineering, Video Games and AI experiments**
 - 🔐 Master’s in IoT & Cybersecurity
 - 🐾 Likes: Cats, PCBs, and discovering how AI impacts daily life
