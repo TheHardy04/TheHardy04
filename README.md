@@ -65,7 +65,7 @@ Crafting code with **creativity** and **curiosity**. Every day is a new opportun
 ---
 ## 📫 Let’s Connect
 
-<p>
+<p align=center>
   <a href="https://www.linkedin.com/in/th%C3%A9o-hardy-0b6561255/" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
   </a>
@@ -82,4 +82,11 @@ Crafting code with **creativity** and **curiosity**. Every day is a new opportun
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TheHardy04&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHardy04&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p align="center">
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=TheHardy04&layout=compact&theme=transparent alt="Top Langs">
+  <!-- https://pin.it/79Anz4WIx -->
+  <img src="assets/jour_de_pluie.gif" alt="Jour De Pluie" />
+</p>
