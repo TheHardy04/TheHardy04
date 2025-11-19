@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+world+!+I'm+Théo+!)](https://git.io/typing-svg)
-
 <!-- https://pin.it/EV99046Dl -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+world+!+I'm+Théo+!" alt="Typing SVG">
+  <!-- https://git.io/typing-svg -->
   <img src="assets/cats_watching.gif" alt="cats watching" />
 </p>
 
