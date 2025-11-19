@@ -6,13 +6,13 @@
 </p>
 
 ## 🎯 Mission Statement:
-Crafting code with creativity and curiosity. Every day is a new opportunity to solve problems, build cool things, and share discoveries!
+Crafting code with **creativity** and **curiosity**. Every day is a new opportunity to solve problems, build cool things, and share discoveries!
 
 ---
 ##  Who Am I?
-- 🧑‍💻 French **Engineering** Student at ESILV La Défense • Exchange at Hanyang Universit in vibrant Seoul!
+- 🧑‍💻 French **Engineering** Student at [ESILV](https://www.esilv.fr/) La Défense • Exchange at [Hanyang University](https://www.hanyang.ac.kr/web/eng) in vibrant Seoul!
 - 🔍 Passionate about **Tech News, Electronic Engineering, Video Games and AI experiments**
-- 🔐 Master’s in IoT & Cybersecurity
+- 🔐 Master’s in **IoT** & **Cybersecurity**
 - 🐾 Likes: Cats, PCBs, and discovering how AI impacts daily life
 - ☕ Can be found: Debugging code, sipping on iced Americano, or leveling up my coding skills
 
@@ -61,13 +61,6 @@ Crafting code with creativity and curiosity. Every day is a new opportunity to s
   <a href="https://www.kicad.org/" title="KiCad">
   <img src="https://img.shields.io/badge/KiCad-314CB0?logo=kicad&logoColor=white&style=for-the-badge" height="22" alt="KiCad" />
 </a> 
-
----
-## 🚀 What’s Next?
-- 🌐 Learning **JavaScript** to conquer the web
-- 📈 Apprehend **financial algorithms** by creating a trading bot
-- 🤖 Enhance my knowledge on **AI** exploring the world of **LLM**
-- 🤝 Collaborating on open-source projects and meeting like-minded coders
 
 ---
 ## 📫 Let’s Connect
