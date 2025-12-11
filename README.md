@@ -86,7 +86,7 @@ Crafting code with **creativity** and **curiosity**. Every day is a new opportun
 
 <p align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img src= https://github-readme-stats.vercel.app/api/top-langs/?username=TheHardy04&layout=compact&theme=transparent alt="Top Langs">
+  <img src= https://raw.githubusercontent.com/TheHardy04/my-github-stats/refs/heads/master/generated/languages.svg alt="Top Langs">
   <!-- https://pin.it/79Anz4WIx -->
   <img src="assets/jour_de_pluie.gif" alt="Jour De Pluie" />
 </p>
