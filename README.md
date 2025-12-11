@@ -1,6 +1,7 @@
 <!-- https://pin.it/EV99046Dl -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&vCenter=true&random=false&width=435&lines=Hello+world+!+I'm+Théo+!" alt="Typing SVG">
+  <br />
   <!-- https://git.io/typing-svg -->
   <img src="assets/cats_watching.gif" alt="cats watching" />
 </p>
@@ -87,6 +88,7 @@ Crafting code with **creativity** and **curiosity**. Every day is a new opportun
 <p align="center">
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img src= https://raw.githubusercontent.com/TheHardy04/my-github-stats/refs/heads/master/generated/languages.svg alt="Top Langs">
+  <br />
   <!-- https://pin.it/79Anz4WIx -->
   <img src="assets/jour_de_pluie.gif" alt="Jour De Pluie" />
 </p>
